@@ -1,0 +1,44 @@
+li {
+    text-decoration: none;
+    margin: 10px;
+    color: white;
+    border-radius: 10px;
+}
+
+ul {
+    list-style: none;
+}
+
+img {
+    width: 100px;
+}
+p{
+    text-align: center;
+}
+#texto {
+    text-align: center;
+    padding: 50px;
+    text-shadow: 1px 1px 20px rgb(170, 160, 160);
+
+}
+
+a {
+    margin-left: 10px;
+    text-decoration: none;
+    color: black;
+}
+
+div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin: 10px;
+    padding: 10px;
+}
+.tabela{
+    color: black;
+}
+#horario_atendimento{
+    margin-top: 50px;
+}

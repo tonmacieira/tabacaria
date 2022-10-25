@@ -1,0 +1,17 @@
+p {
+    text-align: center;
+    margin-top: 100px;
+    text-shadow: 1px 1px 20px rgb(190, 184, 184);
+}
+
+#img_sobre {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+img:hover{
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
+    transition: 1s;
+}
